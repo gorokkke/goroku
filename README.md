@@ -8,3 +8,17 @@
 <img width="931" alt="스크린샷 2024-01-04 204941" src="https://github.com/gorokkke/goroku/assets/155342682/2c1af7e4-830f-4e94-b0f2-4100527d304f">
 <img width="960" alt="스크린샷 2024-01-04 205948" src="https://github.com/gorokkke/goroku/assets/155342682/229b6cad-4c20-43af-886a-07030207c87e">
 <img width="436" alt="스크린샷 2024-01-04 210409" src="https://github.com/gorokkke/goroku/assets/155342682/44039452-d8f4-4109-a94f-81407bed6a60">
+
+
+cd goroku
+git init
+pwd
+git status
+git status goroku
+git add *
+git add read.txt
+git add readme.txt
+git add goroku
+git add read.md
+git add readme.md
+엿먹어 ㅗ
